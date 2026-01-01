@@ -2,7 +2,7 @@
 
 A premium, real-time bus tracking application featuring a modern glassmorphism UI, dynamic simulation engine, and live data broadcasting.
 
-![Final Dashboard](C:/Users/tshas/.gemini/antigravity/brain/1cfe9981-18e8-4949-bf45-4e6d66025eff/map_fix_final_1767280475188.png)
+![Final Dashboard](screenshots/dashboard.png)
 
 ## ✨ Features
 
